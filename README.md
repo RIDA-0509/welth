@@ -4,6 +4,7 @@
 
 
 
+
 An end-to-end, AI-powered personal finance platform that helps users track income, expenses, and savings through intelligent automation and a modern UI. Built using a high-performance, full-stack web architecture.
 
  Key Features:
